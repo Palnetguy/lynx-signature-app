@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638699368784",
+    "project_id": "lynx-3db91",
+    "storage_bucket": "lynx-3db91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638699368784:android:20f3d840c2f63260edfc55",
+        "android_client_info": {
+          "package_name": "com.tak.lynx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnygvaPw35Z366zLFRVh0QkLfk8LXBtAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
